@@ -1,0 +1,9 @@
+{
+  "name": "MarketFlow AI",
+  "description": "Consistent marketing image generation pipeline using vision analysis to maintain characters, styles, and landscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Image Analysis",
+    "Creative Marketing Pipeline"
+  ]
+}
